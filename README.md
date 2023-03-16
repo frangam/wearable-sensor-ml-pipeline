@@ -4,6 +4,11 @@
 Wearable Sensor Data processing and Machine Learning Pipeline design for R programmers
 
 
+## :book: Examples
+- 1 - [Extract features](https://github.com/frangam/wearable-sensor-ml-pipeline/blob/main/examples/extract-features.R)
+- 2 - [Preprocess data](https://github.com/frangam/wearable-sensor-ml-pipeline/blob/main/examples/preprocess-data.R)
+- 3 - [Hyperparameter tuning](https://github.com/frangam/wearable-sensor-ml-pipeline/blob/main/examples/hypeparemter-tuning.R)
+
 ---
 
 Please, cite these research work:
