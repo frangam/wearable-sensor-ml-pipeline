@@ -1,7 +1,14 @@
 # wearable-sensor-ml-pipeline
-<img src="https://img.shields.io/github/license/frangam/wearable-sensor-ml-pipeline.svg"> <img src="https://img.shields.io/github/release/frangam/wearable-sensor-ml-pipeline.svg"/> <img src="https://img.shields.io/github/downloads/frangam/wearable-sensor-ml-pipeline/total.svg"/>
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7745742.svg)](https://doi.org/10.5281/zenodo.7745742)
+<img src="https://img.shields.io/github/license/frangam/wearable-sensor-ml-pipeline.svg"> <img src="https://img.shields.io/github/release/frangam/wearable-sensor-ml-pipeline.svg"/> [![GitHub all releases](https://img.shields.io/github/downloads/frangam/wearable-sensor-ml-pipeline/total)](https://github.com/frangam/wearable-sensor-ml-pipeline/releases/download/1.0/wearable-sensor-ml-pipeline-1.0.zip)
 
 Wearable Sensor Data processing and Machine Learning Pipeline design for R programmers
+
+## Download last release
+Support us downloading our last release
+- Click on this button to download [![GitHub all releases](https://img.shields.io/github/downloads/frangam/wearable-sensor-ml-pipeline/total)](https://github.com/frangam/wearable-sensor-ml-pipeline/releases/download/1.0/wearable-sensor-ml-pipeline-1.0.zip)
+- We also appreciate your support downloading it on ZENODO site: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7745742.svg)](https://doi.org/10.5281/zenodo.7745742)
+
 
 
 ## :book: Examples
