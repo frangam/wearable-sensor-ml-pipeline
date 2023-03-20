@@ -1,4 +1,4 @@
-# wearable-sensor-ml-pipeline
+# wearable-sensor-ml-pipeline (for R programmers)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7745742.svg)](https://doi.org/10.5281/zenodo.7745742)
 <img src="https://img.shields.io/github/license/frangam/wearable-sensor-ml-pipeline.svg"> <img src="https://img.shields.io/github/release/frangam/wearable-sensor-ml-pipeline.svg"/> [![GitHub all releases](https://img.shields.io/github/downloads/frangam/wearable-sensor-ml-pipeline/total)](https://github.com/frangam/wearable-sensor-ml-pipeline/releases/download/1.0/wearable-sensor-ml-pipeline-1.0.zip)
 
